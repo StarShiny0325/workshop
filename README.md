@@ -1,10 +1,3 @@
-[![Join us](images/join.png)](https://faun.dev/join?utm_source=faun&utm_medium=github&utm_campaign=kubernetes-workshop)
-
-- Slides available [here](https://slides.com/eon01/kubernetes-workshop#/).
-- Original article posted [here](https://medium.com/faun/a-gentle-introduction-to-kubernetes-4961e443ba26).
-- Source code [here](https://github.com/eon01/kubernetes-workshop).
-- Inspired from my course: [Learn Kubernetes by building 10 projects](https://bf.eralabs.io/?ref=k8sworkshopgithub)
-
 # Introduction
 
 In this workshop, we're going to:
@@ -1653,29 +1646,3 @@ What about creating your own monitoring/observability solution using Python (or 
 This could be probably the subject of the upcoming workshop.
 
 ---
-
-# I'll add every contributor here. Thanks to:
-- ![](https://avatars0.githubusercontent.com/u/5774128?s=20&v=4) [eon01](https://github.com/eon01) (creator)
-- ![](https://avatars0.githubusercontent.com/u/8949969?s=20&v=4) [MJGTwo](https://github.com/MJGTwo)
-- ![](https://avatars2.githubusercontent.com/u/15660327?s=20&v=4) [salhernandez](https://github.com/salhernandez)
-- ![](https://avatars2.githubusercontent.com/u/1473134?s=20&v=4) [landonwilkins](https://github.com/landonwilkins)
-- ![](https://avatars2.githubusercontent.com/u/6171095?s=20&v=4) [simon-barton](https://github.com/simon-barton)
-- ![](https://avatars2.githubusercontent.com/u/13582547?s=20&v=4) [shibasisp](https://github.com/shibasisp)
-- ![](https://avatars3.githubusercontent.com/u/15660327?s=20&v=4) [salhernandez](https://github.com/salhernandez)
-- ![](https://avatars0.githubusercontent.com/u/1483546?s=20&v=4) [matthewrkula](https://github.com/matthewrkula)
-- ![](https://avatars3.githubusercontent.com/u/1473134?s=20&v=4) [landonwilkins](https://github.com/landonwilkins)
-- ![](https://avatars2.githubusercontent.com/u/32305209?s=20&v=4) [johnchildren](https://github.com/johnchildren)
-- ![](https://avatars3.githubusercontent.com/u/338833?s=20&v=4) [jamesscottbrown](https://github.com/jamesscottbrown)
-- ![](https://avatars2.githubusercontent.com/u/562403?s=20&v=4) [dtuite](https://github.com/dtuite)
-- ![](https://avatars0.githubusercontent.com/u/14314871?s=20&v=4) [amlestin](https://github.com/amlestin)
-- ![](https://avatars0.githubusercontent.com/u/735417?s=20&v=4) [T0MASD](https://github.com/T0MASD)
-- ![](https://avatars0.githubusercontent.com/u/8949969?s=20&v=4) [MJGTwo](https://github.com/MJGTwo)
-- You ? Fork and contribute :-)
-
----
-
-If this workshop solved some of your problems, please consider giving it a star and/or buying me a coffee:
-
-[![Buy Me A Coffee](images/bmc.png)](https://www.buymeacoffee.com/eon01)
-
-*Use only for educational purposes. We don't provide any guarantee.*
